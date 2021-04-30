@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SucculentShop</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="this_field_is_required">This field is required.</string>
+    <string name="identifier_is_too_short">Identifier is too short.</string>
+    <string name="e_mail">E-mail</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email_is_required">Email is required.</string>
+    <string name="email_is_invalid">Email is invalid.</string>
+    <string name="username_is_required">Username is required.</string>
+    <string name="username_is_too_short">Username is too short.</string>
+    <string name="username_is_too_long">Username is too long.</string>
+    <string name="username_can_only_include_a_z_0_9_and_characters">Username can only include a_z, 0_9 and _ characters.</string>
+    <string name="password_is_required">Password is required.</string>
+    <string name="password_is_too_short">Password is too short.</string>
+    <string name="password_is_too_long">Password is too long.</string>
+    <string name="password_must_contain_one_digit_one_uppercase_letter_one_lowercase_letter_and_one_special_character">Password must contain one digit, one uppercase letter, one lowercase letter and one special character.</string>
+
+
+</resources>
